@@ -1,34 +1,26 @@
 [
     {
       "id": "01",
-      "name": "Breaking News"
+      "name": "HTML"
     },
     {
       "id": "02",
-      "name": "Regular News"
+      "name": "CSS"
     },
     {
       "id": "03",
-      "name": "International News"
+      "name": "Bootstrap"
     },
     {
       "id": "04",
-      "name": "Sports"
+      "name": "JavaScript"
     },
     {
       "id": "05",
-      "name": "Entertainment"
-    },
-    {
-      "id": "06",
-      "name": "Culture"
-    },
-    {
-      "id": "07",
-      "name": "Arts"
+      "name": "React JS"
     },
     {
       "id": "08",
-      "name": "All News"
+      "name": "All Course"
     }
   ]
